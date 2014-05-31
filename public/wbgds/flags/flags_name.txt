@@ -1,0 +1,256 @@
+Release of complete flags of the world using ISO 3166-1 alpha-2. 
+
+- Addition of  .ac - Ascension Island. 
+- Addition of  .ad - Andorra. 
+- Addition of  .ae - United Arab Emirates (دولة الإمارات العربية المتحدة). 
+- Addition of  .af - Afghanistan (افغانستان). 
+- Addition of  .ag - Antigua and Barbuda. 
+- Addition of  .ai - Anguilla. 
+- Addition of  .al - Albania (Shqipëria). 
+- Addition of  .am - Armenia (Հայաստան). 
+- Addition of  .an - Netherlands Antilles (Nederlandse Antillen). 
+- Addition of  .ao - Angola. 
+- Addition of  .aq - Antarctica. 
+- Addition of  .ag - Argentina. 
+- Addition of  .as - American Samoa (Amerika Sāmoa). 
+- Addition of  .at - Austria (Österreich). 
+- Addition of  .au - Australia. 
+- Addition of  .aw - Aruba. 
+- Addition of  .ax - Åland Islands (Ahvenanmaa). 
+- Addition of  .az - Azerbaijan (Azərbaycan). 
+- Addition of  .ba - Bosnia and Herzegovina (Босна и Херцеговина). 
+- Addition of  .bb - Barbados. 
+- Addition of  .bd - Bangladesh (বাংলাদেশ). 
+- Addition of  .be - Belgium. 
+- Addition of  .bf - Burkina Faso. 
+- Addition of  .bg - Bulgaria (България). 
+- Addition of  .bh - Bahrain (البحرين‎). 
+- Addition of  .bi - Burundi. 
+- Addition of  .bj - Benin. 
+- Addition of  .bl - Saint Barthélemy (Saint-Barthélemy). 
+- Addition of  .bm - Bermuda. 
+- Addition of  .bn - Brunei (Negara Brunei Darussalam). 
+- Addition of  .bo - Bolivia. 
+- Addition of  .bq - Bonaire, Sint Eustatius and Saba. 
+- Addition of  .br - Brazil (Brasil). 
+- Addition of  .bs - The Bahamas. 
+- Addition of  .bt - Bhutan (རྫོང་ཁ་). 
+- Addition of  .bv - Bouvet Island (Bouvetøya). 
+- Addition of  .bw - Botswana. 
+- Addition of  .by - Belarus (Беларусь). 
+- Addition of  .bz - Belize. 
+- Addition of  .ca - Canada. 
+- Addition of  .cat Catalonia (Catalunya). 
+- Addition of  .cc - Cocos (Keeling) Islands. 
+- Addition of  .cd - Democratic Republic of the Congo (République démocratique du Congo). 
+- Addition of  .cf - Central African Republic (Ködörösêse tî Bêafrîka). 
+- Addition of  .cg - Republic of the Congo (République du Congo). 
+- Addition of  .ch - Switzerland (Confoederatio Helvetica). 
+- Addition of  .ci - Côte d'Ivoire. 
+- Addition of  .ck - Cook Islands (Kūki 'Āirani). 
+- Addition of  .cl - Chile. 
+- Addition of  .cm - Cameroon (Cameroun). 
+- Addition of  .cn - China (中国/中华). 
+- Addition of  .co - Colombia. 
+- Addition of  .cr - Costa Rica. 
+- Addition of  .cu - Cuba. 
+- Addition of  .cv - Cape Verde (Cabo Verde). 
+- Addition of  .cw - Curaçao (Kòrsou). 
+- Addition of  .cx - Christmas Island. 
+- Addition of  .cy - Cyprus. 
+- Addition of  .cz - Czech Republic (Česká republika). 
+- Addition of  .de - Germany (Deutschland). 
+- Addition of  .dj - Djibouti (جيبوتي). 
+- Addition of  .dk - Denmark (Danmark). 
+- Addition of  .dm - Dominica. 
+- Addition of  .do - Dominican Republic (República Dominicana). 
+- Addition of  .dz - Algeria (الجزائر). 
+- Addition of  .ec - Ecuador. 
+- Addition of  .ee - Estonia (Eesti). 
+- Addition of  .eg - Egypt (مصر). 
+- Addition of  .eh - Western Sahara (الصحراء الغربية). 
+- Addition of  .er - Eritrea (ኤርትራ). 
+- Addition of  .es - Spain (España). 
+- Addition of  .et - Ethiopia (ኢትዮጵያ). 
+- Addition of  .eu - European Union. 
+- Addition of  .fi - Finland (Suomi). 
+- Addition of  .fj - Fiji (Viti). 
+- Addition of  .fk - Falkland Islands (Islas Malvinas). 
+- Addition of  .fm - Federated States of Micronesia. 
+- Addition of  .fo - Faroe Islands (Føroyar). 
+- Addition of  .fr - France. 
+- Addition of  .ga - Gabon. 
+- Addition of  .gb - United Kingdom (Great Britain). 
+- Addition of  .gd - Grenada. 
+- Addition of  .ge - Georgia (საქართველო). 
+- Addition of  .gf - French Guiana (Guyane française). 
+- Addition of  .gg - Guernsey (Guernesey). 
+- Addition of  .gh - Ghana. 
+- Addition of  .gi - Gibraltar. 
+- Addition of  .gl - Greenland (Kalaallit Nunaat). 
+- Addition of  .gm - Gambia. 
+- Addition of  .gn - Guinea (Guinée). 
+- Addition of  .gp - Guadeloupe (Gwadloup). 
+- Addition of  .gq - Equatorial Guinea (Guinea Ecuatorial). 
+- Addition of  .gr - Greece (Ελλάδα). 
+- Addition of  .gs - South Georgia and the South Sandwich Islands (SGSSI). 
+- Addition of  .gt - Guatemala. 
+- Addition of  .gu - Guam (Guåhån). 
+- Addition of  .gw - Guinea-Bissau (Guiné-Bissau). 
+- Addition of  .gy - Guyana. 
+- Addition of  .hk - Hong Kong (香港). 
+- Addition of  .hm - Heard Island and McDonald Islands (HIMI). 
+- Addition of  .hn - Honduras. 
+- Addition of  .hr - Croatia (Hrvatska). 
+- Addition of  .ht - Haiti (Haïti). 
+- Addition of  .hu - Hungary (Magyarország). 
+- Addition of  .id - Indonesia. 
+- Addition of  .ie - Ireland (Éire). 
+- Addition of  .il - Israel (מְדִינַת יִשְׂרָאֵל). 
+- Addition of  .im - Isle of Man (Ellan Vannin). 
+- Addition of  .in - India (भारत गणराज्य). 
+- Addition of  .io - British Indian Ocean Territory (BIOT). 
+- Addition of  .iq - Iraq (العراق‎). 
+- Addition of  .ir - Iran (ایران). 
+- Addition of  .is - Iceland (Ísland). 
+- Addition of  .it - Italy (Italia). 
+- Addition of  .je - Jersey. 
+- Addition of  .jm - Jamaica. 
+- Addition of  .jo - Jordan (اَلأُرْدُن). 
+- Addition of  .jp - Japan (日本). 
+- Addition of  .ke - Kenya. 
+- Addition of  .kg - Kyrgyzstan (Кыргызстан). 
+- Addition of  .kh - Cambodia (ព្រះរាជាណាចក្រកម្ពុជា). 
+- Addition of  .ki - Kiribati. 
+- Addition of  .km - Comoros (جزر القمر). 
+- Addition of  .kn - Saint Kitts and Nevis. 
+- Addition of  .kp - North Korea (조선민주주의인민공화국). 
+- Addition of  .kr - South Korea (대한민국). 
+- Addition of  .kw - Kuwait (دولة الكويت) . 
+- Addition of  .ky - Cayman Islands. 
+- Addition of  .kz - Kazakhstan (Қазақстан). 
+- Addition of  .la - Laos (ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ). 
+- Addition of  .lb - Lebanon (لُبْنَان‎). 
+- Addition of  .lc - Saint Lucia (Sainte-Lucie). 
+- Addition of  .li - Liechtenstein. 
+- Addition of  .lk - Sri Lanka (இலங்கை). 
+- Addition of  .lr - Liberia. 
+- Addition of  .ls - Lesotho. 
+- Addition of  .lt - Lithuania (Lietuva). 
+- Addition of  .lu - Luxembourg (Lëtzebuerg). 
+- Addition of  .lv - Latvia (Latvija). 
+- Addition of  .ly - Libya (ليبيا). 
+- Addition of  .ma - Morocco (المغرب). 
+- Addition of  .mc - Monaco (Múnegu). 
+- Addition of  .md - Moldova. 
+- Addition of  .me - Montenegro (Црна Гора). 
+- Addition of  .mf - Saint Martin (Saint-Martin). 
+- Addition of  .mg - Madagascar (Madagasikara). 
+- Addition of  .mh - Marshall Islands (Aolepān Aorōkin M̧ajeļ). 
+- Addition of  .mk - Macedonia (Македонија). 
+- Addition of  .ml - Mali. 
+- Addition of  .mm - Myanmar (ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်). 
+- Addition of  .mn - Mongolia (Монгол улс). 
+- Addition of  .mo - Macau (澳門). 
+- Addition of  .mp - Northern Mariana Islands (Islas Mariånas). 
+- Addition of  .mq - Martinique. 
+- Addition of  .mr - Mauritania (الجمهورية الإسلامية الموريتانية). 
+- Addition of  .ms - Montserrat. 
+- Addition of  .mt - Malta. 
+- Addition of  .mu - Mauritius (Moris). 
+- Addition of  .mv - Maldives (ދިވެހިރާއްޖެ). 
+- Addition of  .mw - Malawi (Malaŵi). 
+- Addition of  .mx - Mexico (México). 
+- Addition of  .my - Malaysia. 
+- Addition of  .mz - Mozambique (Moçambique). 
+- Addition of  .na - Namibia (Namibië). 
+- Addition of  .nc - New Caledonia (Nouvelle-Calédonie). 
+- Addition of  .ne - Niger (Nijar). 
+- Addition of  .nf - Norfolk Island (Norfuk Ailen). 
+- Addition of  .ng - Nigeria. 
+- Addition of  .ni - Nicaragua. 
+- Addition of  .nl - Netherlands (Nederland). 
+- Addition of  .no - Norway (Norge). 
+- Addition of  .np - Nepal (नेपाल). 
+- Addition of  .nr - Nauru (Naoero). 
+- Addition of  .nu - Niue (Niuē). 
+- Addition of  .nz - New Zealand (Aotearoa). 
+- Addition of  .om - Oman (عمان). 
+- Addition of  .pa - Panama (Panamá). 
+- Addition of  .pe - Peru (Perú). 
+- Addition of  .pf - French Polynesia (Pōrīnetia Farāni). 
+- Addition of  .pg - Papua New Guinea (Papua Niugini). 
+- Addition of  .ph - Philippines (Pilipinas). 
+- Addition of  .pk - Pakistan (پاکستان). 
+- Addition of  .pl - Poland (Polska). 
+- Addition of  .pm - Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon). 
+- Addition of  .pn - Pitcairn Islands (Pitkern Ailen). 
+- Addition of  .pr - Puerto Rico. 
+- Addition of  .ps - Palestine (فلسطين). 
+- Addition of  .pt - Portugal. 
+- Addition of  .pw - Palau (Belau). 
+- Addition of  .py - Paraguay. 
+- Addition of  .qa - Qatar (قطر). 
+- Addition of  .re - Réunion (La Réunion). 
+- Addition of  .ro - Romania (România). 
+- Addition of  .rs - Serbia (Србија). 
+- Addition of  .ru - Russia (Россия). 
+- Addition of  .rw - Rwanda. 
+- Addition of  .sa - Saudi Arabia (السعودية). 
+- Addition of  .sb - Solomon Islands. 
+- Addition of  .sc - Seychelles (Sesel). 
+- Addition of  .sd - Sudan (السودان). 
+- Addition of  .se - Sweden (Sverige). 
+- Addition of  .sg - Singapore. 
+- Addition of  .sh - Saint Helena. 
+- Addition of  .si - Slovenia (Slovenija). 
+- Addition of  .sj - Svalbard and Jan Mayen (Svalbard og Jan Mayen). 
+- Addition of  .sk - Slovakia (Slovensko). 
+- Addition of  .sl - Sierra Leone. 
+- Addition of  .sm - San Marino. 
+- Addition of  .sn - Senegal (Sénégal). 
+- Addition of  .so - Somalia (Soomaaliya). 
+- Addition of  .sr - Suriname. 
+- Addition of  .ss - South Sudan. 
+- Addition of  .st - São Tomé and Príncipe (São Tomé e Príncipe). 
+- Addition of  .sv - El Salvador. 
+- Addition of  .sx - Sint Maarten. 
+- Addition of  .sy - Syria (سورية‎). 
+- Addition of  .sz - Swaziland (Swatini). 
+- Addition of  .tc - Turks and Caicos Islands (TCI). 
+- Addition of  .td - Chad (Tchad). 
+- Addition of  .tf - French Southern and Antarctic Lands (Terres australes et antarctiques françaises). 
+- Addition of  .tg - Togo. 
+- Addition of  .th - Thailand (ประเทศไทย). 
+- Addition of  .tj - Tajikistan (Тоҷикистон). 
+- Addition of  .tk - Tokelau. 
+- Addition of  .tl - Timor-Leste (Timór Lorosa'e). 
+- Addition of  .tm - Turkmenistan (Türkmenistan). 
+- Addition of  .tn - Tunisia (تونس). 
+- Addition of  .to - Tonga. 
+- Addition of  .tr - Turkey (Türkiye). 
+- Addition of  .tt - Trinidad and Tobago. 
+- Addition of  .tv - Tuvalu. 
+- Addition of  .tw - Taiwan (中華民國). 
+- Addition of  .tz - Tanzania. 
+- Addition of  .ua - Ukraine (Україна). 
+- Addition of  .ug - Uganda. 
+- Addition of  .uk - United Kingdom. 
+- Addition of  .um - United States Minor Outlying Islands. 
+- Addition of  .us - United States. 
+- Addition of  .uy - Uruguay. 
+- Addition of  .uz - Uzbekistan (Ўзбекистон). 
+- Addition of  .va - Vatican City (Città del Vaticano). 
+- Addition of  .vc - Saint Vincent and the Grenadines. 
+- Addition of  .ve - Venezuela. 
+- Addition of  .vg - British Virgin Islands (BVI). 
+- Addition of  .vi - United States Virgin Islands (USVI). 
+- Addition of  .vn - Vietnam (Việt Nam). 
+- Addition of  .vu - Vanuatu. 
+- Addition of  .wf - Wallis and Futuna (Uvea mo Futuna). 
+- Addition of  .ws - Samoa. 
+- Addition of  .ye - Yemen (اليَمَن). 
+- Addition of  .yt - Mayotte. 
+- Addition of  .za - South Africa. 
+- Addition of  .zm - Zambia. 
+- Addition of  .zw - Zimbabwe.
