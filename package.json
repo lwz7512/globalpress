@@ -1,0 +1,29 @@
+{
+  "name": "globalpress",
+  "version": "0.0.1",
+  "description": "global contracts visualization project",
+  "main": "index.js",
+  "dependencies": {
+    "connect": "~2.15.0",
+    "serve-static": "~1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lwz7512/globalexpress"
+  },
+  "keywords": [
+    "global",
+    "contracts",
+    "visualization"
+  ],
+  "author": "lwz7512@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwz7512/globalexpress/issues"
+  },
+  "homepage": "https://github.com/lwz7512/globalexpress"
+}
