@@ -6,3 +6,8 @@ to run it:
 1. npm install
 2. visit: http://localhost:3000
 
+
+##wbgds project:
+https://github.com/artzub/wbgds
+
+
