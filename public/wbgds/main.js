@@ -199,6 +199,8 @@
     var circle;
 
     function request(error, data) {
+        console.log("request: "+fy);
+
         var l, a, b;
         projects = {};
         countriesCounter = 0;
@@ -250,7 +252,7 @@
             .attr("fill", "#fff")
             .attr("transform", ctr);
 
-        vis.pb = vis.pb || (
+        vis.pb = vis.pb || (//this is progress bar...
             d3.select(document.body)
                 .append("div")
                 .attr("id", "pb")
