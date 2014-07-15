@@ -3,7 +3,7 @@
  *
  */
 
-(function(wbc) {//last to 2322, data driven action...
+(function(wbc, images) {//last to 2322, data driven action...
     var w, h,
         _data,
         fy = 2013,
@@ -198,6 +198,9 @@
 
     var circle;
 
+    /**
+     * on csv data handler
+     */
     function request(error, data) {
         console.log("request: "+fy);
 
@@ -274,7 +277,9 @@
         btnPause.show();
         btnStop.show();
         //vis.stopShow();
-    }
+    }//end of request()...
+
+    // ================ init interaction ============================
 
     d3.select("#chHisto").on("change", function(d) {
         setting.showHistogram = this.checked;
@@ -335,9 +340,11 @@
             btnPause.hide();
             btnStart.hide();
             imgPreloader.show();
-            d3.csv(/*"https://dl-web.dropbox.com/spa/6x4vg7uwuzglgh3/wbgds/public/" + */fy + '.csv', request);
-        })
-    ;
+            d3.csv('data/' + fy + '.csv', request);
+        });
+
+    // init image source    
+    imgPreloader.attr('src', images.preloader);
 
     [btnStart, btnRestart,
      btnPause, btnStop,
@@ -425,5 +432,5 @@
             d3.csv('data/' + fy + '.csv', request);            
     });//end of function (error, collection) 
 
-})(wbc);//end of 1904
+})(wbc, Images);//end of 1904
 
